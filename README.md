@@ -16,7 +16,7 @@
 <p class="lead">Eu sou Fernanda_</p>
 <h1>Eu ensino Matematica</h1>
 <p>Sou Engenheira de Computação e formado em matematica. Ensino pensamento computacional para estudantes do Ensino
-Fundamental e Médio. Ensino sobre tudo de matemtica, contudo onlyfans!</p>
+Fundamental e Médio. Ensino sobre tudo de matemtica, sendo assim a melhor professora do Brasil!uso outras plataformas para renda extra!</p>
 </header>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script&gt;
 </body>
